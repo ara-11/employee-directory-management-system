@@ -432,6 +432,10 @@ department_id (FK)
 
 ---
 
+### Data Formatting
+
+Automatically format employee names, department names, and position titles into a consistent display format while preserving valid abbreviations such as HR, IT, QA, and DevOps.
+
 # Repository Statistics
 
 | Category | Value |

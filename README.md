@@ -6,7 +6,7 @@
 ![SDLC](https://img.shields.io/badge/Development-SDLC-blue)
 
 ---
-Project Screenhot
+Project Screenshot
 ![](screenshots/07-project-screenshot.png)
 ---
 ## Project Information
